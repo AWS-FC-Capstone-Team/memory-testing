@@ -5,49 +5,49 @@ RAMspeed/SMP (Linux) v3.5.0 by Rhett M. Hollander and Paul V. Bolotoff, 2002-09
 5-benchmark SSEmem (non-temporal) BatchRun mode
 
 Benchmark #1:
-SSE (nt)  Copy:      25854.45 MB/s  [NTA prefetch]
-SSE (nt)  Scale:     25753.18 MB/s  [NTA prefetch]
-SSE (nt)  Add:       24855.91 MB/s  [T0 prefetch]
-SSE (nt)  Triad:     24948.77 MB/s  [T0 prefetch]
+SSE (nt)  Copy:      21595.98 MB/s  [NTA prefetch]
+SSE (nt)  Scale:     21672.61 MB/s  [NTA prefetch]
+SSE (nt)  Add:       20054.95 MB/s  [T0 prefetch]
+SSE (nt)  Triad:     20224.07 MB/s  [T0 prefetch]
 ---
-SSE (nt)  AVERAGE:   25353.08 MB/s
+SSE (nt)  AVERAGE:   20886.90 MB/s
 
 Benchmark #2:
-SSE (nt)  Copy:      25617.69 MB/s  [NTA prefetch]
-SSE (nt)  Scale:     25912.25 MB/s  [NTA prefetch]
-SSE (nt)  Add:       22863.01 MB/s  [T0 prefetch]
-SSE (nt)  Triad:     21068.51 MB/s  [T0 prefetch]
+SSE (nt)  Copy:      21739.23 MB/s  [NTA prefetch]
+SSE (nt)  Scale:     21651.55 MB/s  [NTA prefetch]
+SSE (nt)  Add:       20076.80 MB/s  [T0 prefetch]
+SSE (nt)  Triad:     20248.94 MB/s  [T0 prefetch]
 ---
-SSE (nt)  AVERAGE:   23865.37 MB/s
+SSE (nt)  AVERAGE:   20929.13 MB/s
 
 Benchmark #3:
-SSE (nt)  Copy:      23390.03 MB/s  [NTA prefetch]
-SSE (nt)  Scale:     23437.83 MB/s  [NTA prefetch]
-SSE (nt)  Add:       20965.71 MB/s  [T0 prefetch]
-SSE (nt)  Triad:     21085.65 MB/s  [T0 prefetch]
+SSE (nt)  Copy:      23185.48 MB/s  [NTA prefetch]
+SSE (nt)  Scale:     23752.63 MB/s  [NTA prefetch]
+SSE (nt)  Add:       23226.68 MB/s  [T0 prefetch]
+SSE (nt)  Triad:     23341.68 MB/s  [T0 prefetch]
 ---
-SSE (nt)  AVERAGE:   22219.80 MB/s
+SSE (nt)  AVERAGE:   23376.62 MB/s
 
 Benchmark #4:
-SSE (nt)  Copy:      23030.57 MB/s  [NTA prefetch]
-SSE (nt)  Scale:     23444.20 MB/s  [NTA prefetch]
-SSE (nt)  Add:       20772.14 MB/s  [T0 prefetch]
-SSE (nt)  Triad:     21162.08 MB/s  [T0 prefetch]
+SSE (nt)  Copy:      23733.99 MB/s  [NTA prefetch]
+SSE (nt)  Scale:     23801.94 MB/s  [NTA prefetch]
+SSE (nt)  Add:       23188.23 MB/s  [T0 prefetch]
+SSE (nt)  Triad:     23218.24 MB/s  [T0 prefetch]
 ---
-SSE (nt)  AVERAGE:   22102.25 MB/s
+SSE (nt)  AVERAGE:   23485.60 MB/s
 
 Benchmark #5:
-SSE (nt)  Copy:      23354.63 MB/s  [NTA prefetch]
-SSE (nt)  Scale:     23394.01 MB/s  [NTA prefetch]
-SSE (nt)  Add:       21047.42 MB/s  [T0 prefetch]
-SSE (nt)  Triad:     21151.11 MB/s  [T0 prefetch]
+SSE (nt)  Copy:      23461.07 MB/s  [NTA prefetch]
+SSE (nt)  Scale:     23516.83 MB/s  [NTA prefetch]
+SSE (nt)  Add:       23127.05 MB/s  [T0 prefetch]
+SSE (nt)  Triad:     23172.18 MB/s  [T0 prefetch]
 ---
-SSE (nt)  AVERAGE:   22236.79 MB/s
+SSE (nt)  AVERAGE:   23319.28 MB/s
 
-SSE (nt) BatchRun  Copy:      24249.47 MB/s  [NTA prefetch]
-SSE (nt) BatchRun  Scale:     24388.29 MB/s  [NTA prefetch]
-SSE (nt) BatchRun  Add:       22100.84 MB/s  [T0 prefetch]
-SSE (nt) BatchRun  Triad:     21883.22 MB/s  [T0 prefetch]
+SSE (nt) BatchRun  Copy:      22743.15 MB/s  [NTA prefetch]
+SSE (nt) BatchRun  Scale:     22879.11 MB/s  [NTA prefetch]
+SSE (nt) BatchRun  Add:       21934.74 MB/s  [T0 prefetch]
+SSE (nt) BatchRun  Triad:     22041.02 MB/s  [T0 prefetch]
 ---
-SSE (nt) BatchRun  AVERAGE:   23155.46 MB/s
+SSE (nt) BatchRun  AVERAGE:   22399.51 MB/s
 

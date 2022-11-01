@@ -2,19 +2,19 @@ RAMspeed/SMP (Linux) v3.5.0 by Rhett M. Hollander and Paul V. Bolotoff, 2002-09
 
 8Gb per pass mode, 2 processes
 
-SSE & READING (nt)        1 Kb block: 164965.81 MB/s
-SSE & READING (nt)        2 Kb block: 160807.50 MB/s
-SSE & READING (nt)        4 Kb block: 156689.16 MB/s
-SSE & READING (nt)        8 Kb block: 154537.61 MB/s
-SSE & READING (nt)       16 Kb block: 150913.74 MB/s
-SSE & READING (nt)       32 Kb block: 152053.75 MB/s
-SSE & READING (nt)       64 Kb block: 152414.60 MB/s
-SSE & READING (nt)      128 Kb block: 152587.20 MB/s
-SSE & READING (nt)      256 Kb block: 152381.48 MB/s
-SSE & READING (nt)      512 Kb block: 152396.35 MB/s
-SSE & READING (nt)     1024 Kb block: 152069.90 MB/s
-SSE & READING (nt)     2048 Kb block: 151612.94 MB/s
-SSE & READING (nt)     4096 Kb block: 150989.34 MB/s
-SSE & READING (nt)     8192 Kb block: 123326.02 MB/s
-SSE & READING (nt)    16384 Kb block: 120875.19 MB/s
-SSE & READING (nt)    32768 Kb block: 116891.33 MB/s
+SSE & READING (nt)        1 Kb block: 147457.20 MB/s
+SSE & READING (nt)        2 Kb block: 160745.81 MB/s
+SSE & READING (nt)        4 Kb block: 156429.49 MB/s
+SSE & READING (nt)        8 Kb block: 154450.78 MB/s
+SSE & READING (nt)       16 Kb block: 148042.98 MB/s
+SSE & READING (nt)       32 Kb block: 151903.17 MB/s
+SSE & READING (nt)       64 Kb block: 151317.16 MB/s
+SSE & READING (nt)      128 Kb block: 152350.40 MB/s
+SSE & READING (nt)      256 Kb block: 151867.59 MB/s
+SSE & READING (nt)      512 Kb block: 152075.96 MB/s
+SSE & READING (nt)     1024 Kb block: 152140.60 MB/s
+SSE & READING (nt)     2048 Kb block: 151660.46 MB/s
+SSE & READING (nt)     4096 Kb block: 150960.15 MB/s
+SSE & READING (nt)     8192 Kb block: 123053.95 MB/s
+SSE & READING (nt)    16384 Kb block: 120519.04 MB/s
+SSE & READING (nt)    32768 Kb block: 116627.48 MB/s

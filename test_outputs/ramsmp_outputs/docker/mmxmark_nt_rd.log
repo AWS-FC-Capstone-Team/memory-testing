@@ -2,19 +2,19 @@ RAMspeed/SMP (Linux) v3.5.0 by Rhett M. Hollander and Paul V. Bolotoff, 2002-09
 
 8Gb per pass mode, 2 processes
 
-MMX (nt) & READING        1 Kb block: 87297.19 MB/s
-MMX (nt) & READING        2 Kb block: 87533.15 MB/s
-MMX (nt) & READING        4 Kb block: 86273.77 MB/s
-MMX (nt) & READING        8 Kb block: 85537.31 MB/s
-MMX (nt) & READING       16 Kb block: 85445.63 MB/s
-MMX (nt) & READING       32 Kb block: 83889.36 MB/s
-MMX (nt) & READING       64 Kb block: 84753.06 MB/s
-MMX (nt) & READING      128 Kb block: 82718.21 MB/s
-MMX (nt) & READING      256 Kb block: 83431.85 MB/s
-MMX (nt) & READING      512 Kb block: 83538.95 MB/s
-MMX (nt) & READING     1024 Kb block: 82326.58 MB/s
-MMX (nt) & READING     2048 Kb block: 83503.02 MB/s
-MMX (nt) & READING     4096 Kb block: 83642.06 MB/s
-MMX (nt) & READING     8192 Kb block: 83617.22 MB/s
-MMX (nt) & READING    16384 Kb block: 83030.64 MB/s
-MMX (nt) & READING    32768 Kb block: 81969.72 MB/s
+MMX (nt) & READING        1 Kb block: 89080.41 MB/s
+MMX (nt) & READING        2 Kb block: 86245.84 MB/s
+MMX (nt) & READING        4 Kb block: 85272.38 MB/s
+MMX (nt) & READING        8 Kb block: 84795.31 MB/s
+MMX (nt) & READING       16 Kb block: 84539.11 MB/s
+MMX (nt) & READING       32 Kb block: 83459.61 MB/s
+MMX (nt) & READING       64 Kb block: 83903.29 MB/s
+MMX (nt) & READING      128 Kb block: 83955.97 MB/s
+MMX (nt) & READING      256 Kb block: 83443.40 MB/s
+MMX (nt) & READING      512 Kb block: 83160.26 MB/s
+MMX (nt) & READING     1024 Kb block: 83706.85 MB/s
+MMX (nt) & READING     2048 Kb block: 83771.34 MB/s
+MMX (nt) & READING     4096 Kb block: 83491.45 MB/s
+MMX (nt) & READING     8192 Kb block: 83336.13 MB/s
+MMX (nt) & READING    16384 Kb block: 82579.84 MB/s
+MMX (nt) & READING    32768 Kb block: 81877.91 MB/s

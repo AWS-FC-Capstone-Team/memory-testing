@@ -5,48 +5,48 @@ RAMspeed/SMP (Linux) v3.5.0 by Rhett M. Hollander and Paul V. Bolotoff, 2002-09
 5-benchmark FLOATmem BatchRun mode
 
 Benchmark #1:
-FL-POINT  Copy:      10743.35 MB/s
-FL-POINT  Scale:     15664.93 MB/s
-FL-POINT  Add:       21833.04 MB/s
-FL-POINT  Triad:     23279.08 MB/s
+FL-POINT  Copy:      10832.98 MB/s
+FL-POINT  Scale:     10840.54 MB/s
+FL-POINT  Add:       12379.73 MB/s
+FL-POINT  Triad:     12373.84 MB/s
 ---
-FL-POINT  AVERAGE:   17880.10 MB/s
+FL-POINT  AVERAGE:   11606.77 MB/s
 
 Benchmark #2:
-FL-POINT  Copy:      20528.74 MB/s
-FL-POINT  Scale:     21067.69 MB/s
-FL-POINT  Add:       23001.95 MB/s
-FL-POINT  Triad:     23152.71 MB/s
+FL-POINT  Copy:      10839.95 MB/s
+FL-POINT  Scale:     10845.69 MB/s
+FL-POINT  Add:       12351.62 MB/s
+FL-POINT  Triad:     12358.79 MB/s
 ---
-FL-POINT  AVERAGE:   21937.77 MB/s
+FL-POINT  AVERAGE:   11599.01 MB/s
 
 Benchmark #3:
-FL-POINT  Copy:      21175.70 MB/s
-FL-POINT  Scale:     20960.83 MB/s
-FL-POINT  Add:       22897.20 MB/s
-FL-POINT  Triad:     23109.07 MB/s
+FL-POINT  Copy:      10824.09 MB/s
+FL-POINT  Scale:     10824.53 MB/s
+FL-POINT  Add:       12339.53 MB/s
+FL-POINT  Triad:     12343.95 MB/s
 ---
-FL-POINT  AVERAGE:   22035.70 MB/s
+FL-POINT  AVERAGE:   11583.02 MB/s
 
 Benchmark #4:
-FL-POINT  Copy:      21146.65 MB/s
-FL-POINT  Scale:     21066.59 MB/s
-FL-POINT  Add:       22912.23 MB/s
-FL-POINT  Triad:     23159.05 MB/s
+FL-POINT  Copy:      10827.19 MB/s
+FL-POINT  Scale:     10818.98 MB/s
+FL-POINT  Add:       12339.83 MB/s
+FL-POINT  Triad:     12338.76 MB/s
 ---
-FL-POINT  AVERAGE:   22071.13 MB/s
+FL-POINT  AVERAGE:   11581.19 MB/s
 
 Benchmark #5:
-FL-POINT  Copy:      21109.15 MB/s
-FL-POINT  Scale:     21023.31 MB/s
-FL-POINT  Add:       22980.87 MB/s
-FL-POINT  Triad:     23070.16 MB/s
+FL-POINT  Copy:      10819.89 MB/s
+FL-POINT  Scale:     10823.50 MB/s
+FL-POINT  Add:       12339.25 MB/s
+FL-POINT  Triad:     12360.50 MB/s
 ---
-FL-POINT  AVERAGE:   22045.87 MB/s
+FL-POINT  AVERAGE:   11585.78 MB/s
 
-FL-POINT BatchRun  Copy:      18940.72 MB/s
-FL-POINT BatchRun  Scale:     19956.67 MB/s
-FL-POINT BatchRun  Add:       22725.06 MB/s
-FL-POINT BatchRun  Triad:     23154.01 MB/s
+FL-POINT BatchRun  Copy:      10828.82 MB/s
+FL-POINT BatchRun  Scale:     10830.65 MB/s
+FL-POINT BatchRun  Add:       12349.99 MB/s
+FL-POINT BatchRun  Triad:     12355.17 MB/s
 ---
-FL-POINT BatchRun  AVERAGE:   21194.11 MB/s
+FL-POINT BatchRun  AVERAGE:   11591.16 MB/s

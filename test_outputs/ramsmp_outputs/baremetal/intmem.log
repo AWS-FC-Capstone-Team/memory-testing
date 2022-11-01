@@ -5,48 +5,48 @@ RAMspeed/SMP (Linux) v3.5.0 by Rhett M. Hollander and Paul V. Bolotoff, 2002-09
 5-benchmark INTmem BatchRun mode
 
 Benchmark #1:
-INTEGER   Copy:      13021.87 MB/s
-INTEGER   Scale:     21024.67 MB/s
-INTEGER   Add:       21154.67 MB/s
-INTEGER   Triad:     20951.72 MB/s
+INTEGER   Copy:      10869.58 MB/s
+INTEGER   Scale:     10871.20 MB/s
+INTEGER   Add:       10837.63 MB/s
+INTEGER   Triad:     10821.55 MB/s
 ---
-INTEGER   AVERAGE:   19038.23 MB/s
+INTEGER   AVERAGE:   10849.99 MB/s
 
 Benchmark #2:
-INTEGER   Copy:      21497.85 MB/s
-INTEGER   Scale:     21114.07 MB/s
-INTEGER   Add:       21315.86 MB/s
-INTEGER   Triad:     21076.83 MB/s
+INTEGER   Copy:      10883.87 MB/s
+INTEGER   Scale:     10875.49 MB/s
+INTEGER   Add:       10833.91 MB/s
+INTEGER   Triad:     10825.13 MB/s
 ---
-INTEGER   AVERAGE:   21251.15 MB/s
+INTEGER   AVERAGE:   10854.60 MB/s
 
 Benchmark #3:
-INTEGER   Copy:      21495.24 MB/s
-INTEGER   Scale:     21028.55 MB/s
-INTEGER   Add:       19779.51 MB/s
-INTEGER   Triad:     20721.06 MB/s
+INTEGER   Copy:      10895.27 MB/s
+INTEGER   Scale:     10866.13 MB/s
+INTEGER   Add:       10825.90 MB/s
+INTEGER   Triad:     10819.59 MB/s
 ---
-INTEGER   AVERAGE:   20756.09 MB/s
+INTEGER   AVERAGE:   10851.72 MB/s
 
 Benchmark #4:
-INTEGER   Copy:      21287.51 MB/s
-INTEGER   Scale:     20701.85 MB/s
-INTEGER   Add:       20978.52 MB/s
-INTEGER   Triad:     20835.38 MB/s
+INTEGER   Copy:      10876.18 MB/s
+INTEGER   Scale:     10851.40 MB/s
+INTEGER   Add:       10826.01 MB/s
+INTEGER   Triad:     10821.26 MB/s
 ---
-INTEGER   AVERAGE:   20950.81 MB/s
+INTEGER   AVERAGE:   10843.71 MB/s
 
 Benchmark #5:
-INTEGER   Copy:      21209.76 MB/s
-INTEGER   Scale:     20715.85 MB/s
-INTEGER   Add:       20998.77 MB/s
-INTEGER   Triad:     20848.02 MB/s
+INTEGER   Copy:      10876.65 MB/s
+INTEGER   Scale:     10863.05 MB/s
+INTEGER   Add:       10830.03 MB/s
+INTEGER   Triad:     10824.90 MB/s
 ---
-INTEGER   AVERAGE:   20943.10 MB/s
+INTEGER   AVERAGE:   10848.66 MB/s
 
-INTEGER BatchRun   Copy:      19702.44 MB/s
-INTEGER BatchRun   Scale:     20917.00 MB/s
-INTEGER BatchRun   Add:       20845.46 MB/s
-INTEGER BatchRun   Triad:     20886.60 MB/s
+INTEGER BatchRun   Copy:      10880.31 MB/s
+INTEGER BatchRun   Scale:     10865.45 MB/s
+INTEGER BatchRun   Add:       10830.69 MB/s
+INTEGER BatchRun   Triad:     10822.48 MB/s
 ---
-INTEGER BatchRun   AVERAGE:   20587.88 MB/s
+INTEGER BatchRun   AVERAGE:   10849.74 MB/s
