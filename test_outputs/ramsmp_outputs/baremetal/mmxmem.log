@@ -1,0 +1,53 @@
+RAMspeed/SMP (Linux) v3.5.0 by Rhett M. Hollander and Paul V. Bolotoff, 2002-09
+
+8Gb per pass mode, 2 processes
+
+5-benchmark MMXmem (non-temporal) BatchRun mode
+
+Benchmark #1:
+MMX (nt)  Copy:      16645.74 MB/s  [NTA prefetch]
+MMX (nt)  Scale:     16982.55 MB/s  [NTA prefetch]
+MMX (nt)  Add:       33673.83 MB/s  [T0 prefetch]
+MMX (nt)  Triad:     32139.08 MB/s  [T0 prefetch]
+---
+MMX (nt)  AVERAGE:   24860.30 MB/s
+
+Benchmark #2:
+MMX (nt)  Copy:      34245.56 MB/s  [NTA prefetch]
+MMX (nt)  Scale:     34128.08 MB/s  [NTA prefetch]
+MMX (nt)  Add:       33723.54 MB/s  [T0 prefetch]
+MMX (nt)  Triad:     33713.76 MB/s  [T0 prefetch]
+---
+MMX (nt)  AVERAGE:   33952.74 MB/s
+
+Benchmark #3:
+MMX (nt)  Copy:      34131.96 MB/s  [NTA prefetch]
+MMX (nt)  Scale:     34183.34 MB/s  [NTA prefetch]
+MMX (nt)  Add:       33756.14 MB/s  [T0 prefetch]
+MMX (nt)  Triad:     33793.05 MB/s  [T0 prefetch]
+---
+MMX (nt)  AVERAGE:   33966.12 MB/s
+
+Benchmark #4:
+MMX (nt)  Copy:      34145.22 MB/s  [NTA prefetch]
+MMX (nt)  Scale:     34119.21 MB/s  [NTA prefetch]
+MMX (nt)  Add:       33698.88 MB/s  [T0 prefetch]
+MMX (nt)  Triad:     32375.34 MB/s  [T0 prefetch]
+---
+MMX (nt)  AVERAGE:   33584.66 MB/s
+
+Benchmark #5:
+MMX (nt)  Copy:      34303.40 MB/s  [NTA prefetch]
+MMX (nt)  Scale:     34315.66 MB/s  [NTA prefetch]
+MMX (nt)  Add:       33596.02 MB/s  [T0 prefetch]
+MMX (nt)  Triad:     33851.10 MB/s  [T0 prefetch]
+---
+MMX (nt)  AVERAGE:   34016.55 MB/s
+
+MMX (nt) BatchRun  Copy:      30694.38 MB/s  [NTA prefetch]
+MMX (nt) BatchRun  Scale:     30745.77 MB/s  [NTA prefetch]
+MMX (nt) BatchRun  Add:       33689.68 MB/s  [T0 prefetch]
+MMX (nt) BatchRun  Triad:     33174.47 MB/s  [T0 prefetch]
+---
+MMX (nt) BatchRun  AVERAGE:   32076.07 MB/s
+

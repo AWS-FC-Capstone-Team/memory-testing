@@ -1,0 +1,20 @@
+RAMspeed/SMP (Linux) v3.5.0 by Rhett M. Hollander and Paul V. Bolotoff, 2002-09
+
+8Gb per pass mode, 2 processes
+
+INTEGER & READING         1 Kb block: 92098.99 MB/s
+INTEGER & READING         2 Kb block: 94593.95 MB/s
+INTEGER & READING         4 Kb block: 94220.68 MB/s
+INTEGER & READING         8 Kb block: 94879.45 MB/s
+INTEGER & READING        16 Kb block: 94682.84 MB/s
+INTEGER & READING        32 Kb block: 93378.50 MB/s
+INTEGER & READING        64 Kb block: 91377.42 MB/s
+INTEGER & READING       128 Kb block: 94543.97 MB/s
+INTEGER & READING       256 Kb block: 92741.09 MB/s
+INTEGER & READING       512 Kb block: 92036.33 MB/s
+INTEGER & READING      1024 Kb block: 89635.11 MB/s
+INTEGER & READING      2048 Kb block: 88635.75 MB/s
+INTEGER & READING      4096 Kb block: 86565.69 MB/s
+INTEGER & READING      8192 Kb block: 27209.43 MB/s
+INTEGER & READING     16384 Kb block: 17448.07 MB/s
+INTEGER & READING     32768 Kb block: 19095.47 MB/s

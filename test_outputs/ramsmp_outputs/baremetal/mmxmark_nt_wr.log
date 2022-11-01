@@ -1,0 +1,20 @@
+RAMspeed/SMP (Linux) v3.5.0 by Rhett M. Hollander and Paul V. Bolotoff, 2002-09
+
+8Gb per pass mode, 2 processes
+
+MMX (nt) & WRITING        1 Kb block: 18032.89 MB/s
+MMX (nt) & WRITING        2 Kb block: 33691.80 MB/s
+MMX (nt) & WRITING        4 Kb block: 33750.57 MB/s
+MMX (nt) & WRITING        8 Kb block: 33725.33 MB/s
+MMX (nt) & WRITING       16 Kb block: 33737.72 MB/s
+MMX (nt) & WRITING       32 Kb block: 31725.13 MB/s
+MMX (nt) & WRITING       64 Kb block: 25003.28 MB/s
+MMX (nt) & WRITING      128 Kb block: 33725.86 MB/s
+MMX (nt) & WRITING      256 Kb block: 33762.48 MB/s
+MMX (nt) & WRITING      512 Kb block: 33844.59 MB/s
+MMX (nt) & WRITING     1024 Kb block: 33839.26 MB/s
+MMX (nt) & WRITING     2048 Kb block: 33470.23 MB/s
+MMX (nt) & WRITING     4096 Kb block: 33398.92 MB/s
+MMX (nt) & WRITING     8192 Kb block: 33148.81 MB/s
+MMX (nt) & WRITING    16384 Kb block: 33177.14 MB/s
+MMX (nt) & WRITING    32768 Kb block: 33990.06 MB/s
